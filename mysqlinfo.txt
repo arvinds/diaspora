@@ -1,4 +1,0 @@
-mysqldb name: diasporadb
-
-mysql user: diasporauser
-password: RBYf3VrAjcxfJu
